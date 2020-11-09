@@ -1,7 +1,7 @@
 ## IFSC MÓDULO 7 - PROGRAMAÇÃO WEB I
 
 Repository with all the exercises and projects developed during the "Programação Web I" classes.
-Teacher Lara Popov is the master of the classes. You can easily find her on [YouTube](https://www.youtube.com/channel/UCFqZxDeS9lMCCkmaH0XcZTw/videos)
+Teacher <b> Lara Popov </b> is the master of the classes. You can easily find her on [YouTube](https://www.youtube.com/channel/UCFqZxDeS9lMCCkmaH0XcZTw/videos)
 
 ## Contributing
 
@@ -23,10 +23,10 @@ const Lucas = {
 
 ```
 
-You can also find me on my social medias:
-📸 - [Instagram](https://www.instagram.com/chitolina.lucas/)
-🌐 - [Linkedin](https://www.linkedin.com/in/lucaschitolina/)
-💻 - [Rocketseat](https://app.rocketseat.com.br/me/lucas-chitolina-1588885369)
+You can also find me on my social medias: <br>
+📸 - [Instagram](https://www.instagram.com/chitolina.lucas/) <br>
+🌐 - [Linkedin](https://www.linkedin.com/in/lucaschitolina/) <br>
+💻 - [Rocketseat](https://app.rocketseat.com.br/me/lucas-chitolina-1588885369) 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
