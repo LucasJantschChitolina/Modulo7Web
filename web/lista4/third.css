@@ -1,0 +1,28 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+ol{
+    text-decoration: none;
+    list-style: none;
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 40px;
+    border-bottom: 1px solid grey;
+    box-shadow: -10px 0px 0px 0px green;
+    font-weight: bold;
+    color: gray;
+    font-size:14px;
+}
+
+li:hover{
+    background-color: green;
+    cursor: pointer;
+    transition: 800ms;
+    color: white;
+}

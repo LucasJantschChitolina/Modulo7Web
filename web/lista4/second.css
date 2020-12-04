@@ -1,0 +1,24 @@
+header{
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+header h1{
+    color: white
+}
+
+.title-box{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-weight: bold;
+    color: red;
+}
+
+.li-content{
+    line-height: 22px
+}

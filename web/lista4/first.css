@@ -1,0 +1,31 @@
+header{
+    width: 100%;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
+
+header h1{
+    color: white;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    line-height: 25px;
+}
+
+.citacao{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
+
+.green-box{
+    background-color: green;
+    width: 100%;
+    height: 80px;
+}
+
